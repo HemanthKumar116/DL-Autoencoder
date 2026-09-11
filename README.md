@@ -47,9 +47,9 @@ Evaluate the trained model using test images and visualize the Original, Noisy, 
 
 ## PROGRAM
 
-### Name: Dheebash Sai R
+### Name: Hemanth Kumar S
 
-### Register Number: 212224040075
+### Register Number: 212224040115
 
 ```python
 # DL - Convolutional Autoencoder for Image Denoising using PyTorch
